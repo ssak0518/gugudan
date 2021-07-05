@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Gugudan {
 	public static void main(String[] args) {
 	
-	System.out.println("±¸±¸´ÜÁß Ãâ·ÂÇÑ ´ÜÀº? : ");
+	System.out.println("ëª‡ë‹¨ì„ ì¶œë ¥í•©ë‹ˆê¹Œ? : ");
 	Scanner scanner = new Scanner(System.in);
 	int number = scanner.nextInt();
 	System.out.println(number * 1);
